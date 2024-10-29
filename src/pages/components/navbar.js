@@ -1,4 +1,4 @@
-import {Container, Nav, Navbar} from 'react-bootstrap';
+ import {Container, Nav, Navbar} from 'react-bootstrap';
 import style from "@/styles/Navbar.module.css"
 
 export default function Menu() {
